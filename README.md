@@ -1,2 +1,2 @@
 # automata
-Automata - Teoria de la Computacion
+Automata - Teoria de la Computación
